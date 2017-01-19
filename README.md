@@ -1,2 +1,3 @@
 # hello-world
 My very first repository.  It is tradition ...
+Actually, I was about 8 years old when my father first brought home a computer.  My eyes flashed and widened as we unwrapped our shiney new Commodore 64.  It was love at first sight. 
